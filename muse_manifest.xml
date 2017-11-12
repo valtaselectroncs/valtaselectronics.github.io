@@ -1,15 +1,15 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="valtaselectronic.com" resolutions="1x" timestamp="1510499270774">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="valtaselectronic.com" resolutions="1x" timestamp="1510499434722">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="371542197" ref="phone>index"/>
-      <file name="about.css" crc="94758316" ref="phone>about"/>
-      <file name="products.css" crc="3843108820" ref="phone>products"/>
-      <file name="contact-us.css" crc="4077230702" ref="phone>contact-us"/>
+      <file name="index.css" crc="219323691" ref="phone>index"/>
+      <file name="about.css" crc="482651437" ref="phone>about"/>
+      <file name="products.css" crc="317702731" ref="phone>products"/>
+      <file name="contact-us.css" crc="13908090" ref="phone>contact-us"/>
     </folder>
-    <file name="index.html" crc="4097454045" seo="true" mt="1510498887470" redirect="true"/>
-    <file name="products.html" crc="402631535" seo="true" mt="1510499112685" redirect="true"/>
-    <file name="contact-us.html" crc="87522290" seo="true" mt="1510497706686" redirect="true"/>
-    <file name="about.html" crc="4261480641" seo="true" mt="1510499194128" redirect="true"/>
+    <file name="index.html" crc="103763156" seo="true" mt="1510499414225" redirect="true"/>
+    <file name="products.html" crc="383325779" seo="true" mt="1510499404724" redirect="true"/>
+    <file name="contact-us.html" crc="3881181317" seo="true" mt="1510499396507" redirect="true"/>
+    <file name="about.html" crc="533659923" seo="true" mt="1510499389118" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="480281256"/>
@@ -37,7 +37,7 @@
     <file name="form_throttle.php" crc="313199896" ref="phone>index"/>
     <file name="form_process.php" crc="3855659497" ref="phone>index"/>
     <file name="form-u7368.php" crc="447265559" ref="phone>index"/>
-    <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="index:phone>products"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>products:phone>contact-us:phone>about:index:contact-us:about"/>
     <file name="form-u7979.php" crc="4257858576" ref="phone>contact-us"/>
     <file name="jquery.museresponsive.js" crc="52098982" ref="index"/>
@@ -55,14 +55,14 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
     <file name="u5944-4.png" crc="4102733101" ref="phone>index"/>
-    <file name="untitled-6.png" crc="4170049227" seo="true" ref="phone>index:phone>products:phone>contact-us:phone>about:index">
+    <file name="untitled-6.png" crc="3798920797" seo="true" ref="phone>index:phone>products:phone>contact-us:phone>about:index">
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="contact-us" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
-    <file name="visualeditor_-_icon_-_menusvg-u6064-3-fr.png" crc="87117005" ref="phone>index:phone>contact-us"/>
-    <file name="multiplication-symbol-icon-0910125830-u6064-3-a-fr.png" crc="3793888727" ref="phone>index:phone>contact-us"/>
+    <file name="visualeditor_-_icon_-_menusvg-u6064-3-fr.png" crc="87117005" ref="phone>index:phone>about"/>
+    <file name="multiplication-symbol-icon-0910125830-u6064-3-a-fr.png" crc="3793888727" ref="phone>index:phone>about"/>
     <file name="currency-counter6.png" crc="3806351425" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
@@ -72,19 +72,19 @@
     <file name="bm3.jpg" crc="4068258452" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cctv-1.jpg" crc="3771389932" seo="true" ref="phone>index:index">
+    <file name="cctv-1.jpg" crc="3771389932" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
     <file name="u7530-4.png" crc="4026870484" ref="phone>index"/>
     <file name="u6781-4.png" crc="3993999835" ref="phone>products"/>
-    <file name="0d59181d-e29c-423d-b455-88a523dce8a8.jpg" crc="482979480" seo="true" ref="phone>products">
+    <file name="0d59181d-e29c-423d-b455-88a523dce8a8.jpg" crc="175205158" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
     <file name="currency-counter7.png" crc="375053287" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
-    <file name="19c0be5d-8d6f-4469-865f-b59d6301705d.jpg" crc="416073313" seo="true" ref="phone>products">
+    <file name="19c0be5d-8d6f-4469-865f-b59d6301705d.jpg" crc="4012169750" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
     <file name="bundle-note-counting-machine2.png" crc="457559904" seo="true" ref="phone>products">
@@ -93,14 +93,14 @@
     <file name="currency-counter8.png" crc="348966555" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
-    <file name="dd6e2bee-c227-458c-be19-f83a7f4efb1c.jpg" crc="350515982" seo="true" ref="phone>products">
+    <file name="dd6e2bee-c227-458c-be19-f83a7f4efb1c.jpg" crc="99545167" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
-    <file name="e0cc6da6-a97a-4e6a-86d1-7c453d1d64dc.jpg" crc="145272784" seo="true" ref="phone>products">
+    <file name="e0cc6da6-a97a-4e6a-86d1-7c453d1d64dc.jpg" crc="354259862" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
     <file name="u6760-4.png" crc="3859536071" ref="phone>products"/>
-    <file name="surveillance-camera-vector-shape3.jpg" crc="273212655" seo="true" ref="phone>products">
+    <file name="surveillance-camera-vector-shape3.jpg" crc="4067361972" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
     <file name="images.jpg" crc="4125319580" seo="true" ref="phone>products">
@@ -144,16 +144,15 @@
     <file name="bm392x68.jpg" crc="3991470411" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="visualeditor_-_icon_-_menusvg-u6519-3-fr.png" crc="3798367665" ref="phone>products"/>
-    <file name="multiplication-symbol-icon-0910125830-u6519-3-a-fr.png" crc="150491539" ref="phone>products"/>
-    <file name="cctv-1358x275.jpg" crc="3795812113" seo="true" ref="phone>products">
+    <file name="visualeditor_-_icon_-_menusvg-u6519-3-fr.png" crc="3798367665" ref="phone>products:phone>contact-us"/>
+    <file name="multiplication-symbol-icon-0910125830-u6519-3-a-fr.png" crc="150491539" ref="phone>products:phone>contact-us"/>
+    <file name="cctv-1.png" crc="4255773787" seo="true" ref="phone>index:phone>products">
+      <caption webpage="index" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
-    <file name="twilightprobulletcams276x259.jpg" crc="139723278" seo="true" ref="phone>products">
+    <file name="twilightprobulletcams.png" crc="3970374670" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
-    <file name="visualeditor_-_icon_-_menusvg-u7698-3-fr.png" crc="87117005" ref="phone>about"/>
-    <file name="multiplication-symbol-icon-0910125830-u7698-3-a-fr.png" crc="3793888727" ref="phone>about"/>
   </folder>
   <file name="index.html" crc="4049491607" seo="true" mt="1510497953241" redirect="true"/>
   <file name="products.html" crc="3775388236" seo="true" mt="1510499262405" redirect="false"/>
