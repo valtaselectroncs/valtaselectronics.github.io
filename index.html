@@ -4,336 +4,335 @@
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="2017.0.3.363"/>
-  <meta name="viewport" content="width=380"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   
   <script type="text/javascript">
-   // Update the 'nojs'/'js' class on the html node
+   // Redirect to phone/tablet as necessary
+(function(a,b,c){var d=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var f=a[b]+"MaxTouchPoints";if(f in navigator&&navigator[f])return!0}try{return document.createEvent("TouchEvent"),!0}catch(d){}return!1}(),g=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var f=b[c];f.charAt(0)==" ";)f=f.substring(1,f.length);if(f.indexOf(a)==
+0)return f.substring(a.length,f.length)}return null};if(g("inbrowserediting")!="true"){var f,g=g("devicelock");g=="phone"&&c?f=c:g=="tablet"&&b&&(f=b);if(g!=a&&!f)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&c?f=c:window.matchMedia("(max-device-width: 960px)").matches&&b&&d&&(f=b);else{var a=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),g=window.screen.systemXDPI||0,i=window.screen.systemYDPI||0,g=g>0&&i>0?Math.min(screen.width/g,screen.height/i):
+0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone/index.html");
+
+// Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "musewpdisclosure.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musemenu.js", "require.js", "jquery.scrolleffects.js", "jquery.museresponsive.js", "index.css"], "outOfDate":[]};
 </script>
   
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="https://valtaselectroncs.github.io/valtaselectronics.github.io/phone/index.html"/>
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=480281256"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4196483336" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4256030448" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3766170273" id="nomq_pagesheet"/>
+  <![endif]-->
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
-  <script src="https://use.typekit.net/ik/XGyjcP8arq0BxJR0_gpZO4J0JImnnv1C1nCRLAYqA66feT9gf40pz3bPH2qXwRbhFRiLwAIhZcByFhwkF2yyjcmqjR6ojDwXFQFKZ2Mu5ABqjhb-sfG0icBCieBDZAU8jaskdhoTjkoRdhXCicBCieBDZAU8jaskdhoTjkoRdhXCiaiaO1ZydYsyShmCZAFXScN0-Aw0jhNlJ6Z3daFXZWJ7fbRaMyMMeMb6MqGIQWmDZZMgkS7yXM9.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/kCwXDDVcc_38CZ1sL-4LM4nvgBaD8t1TROdPB5dWigIfe7Sgf40pz3bPH2qXwRbhFRiLjDsqFcboFcscjDqXjDy8ZR4qZemywRquwQqoZRMow29-mKG0icBCieBDZAU8jaskdhoRSko1-WsGiAJ0-AvCicBCieBDZAU8jaskdhoRSko1-WsGiAJ0-AvCiaiaO1ZydYsyShmCZAFXScN0jaw0Zh8X-YmKOc8zJ6Z3daFXZWJ7fbRaMyMMeMb6MqGIQWmDZZMg6lKyXM9.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
 </script>
-    <!--HTML Widget code-->
-  
-      <style>
-
-        #page #u6496 {
-          display: none;
-        }
-
-        body .u6496-mt_btn_top {
-          opacity: 0;
-          visibility: hidden;
-          position: fixed;
-          padding: 15px;
-          z-index: 999;
-          display: inline-block;
-          background: rgba(56,56,56, 1);
-          border: 0px solid rgba(56,56,56, 1);
-          outline: none;
-          font-size: 14px;
-          text-decoration: none !important;
-          color: rgb(255,255,255);
-          border-radius: 5px;
-          transition: visibility 1s, opacity 1s;
-          font-family: Source Sans Pro, Arial, sans-serif;
-          min-width: calc(50px - 30px);
-          height: calc(50px - 30px);
-          line-height: calc(50px - 30px);
-          text-align: center;
-          transition-delay: 0s;
-        }
-
-        body .u6496-mt_btn_top.show_scroll {
-          opacity: 1;
-          visibility: visible;
-        }
-       
-        body .u6496-mt_btn_top .u6496-mt-scrolltop-arrow {
-          display: inline-block;
-          position: relative;
-          text-align: center;
-          color: rgb(255,255,255);
-          margin-left: .75em;
-          border-radius: 5px;
-          vertical-align: middle;
-        }
-
-        body .u6496-mt_btn_top .u6496-mt-scrolltop-arrow:after {
-          content: '';
-          display: inline-block;
-          width: 10px;
-          height: 10px;
-          border-top: 2px solid rgb(255,255,255);
-          border-right: 2px solid rgb(255,255,255);
-          -moz-transform: rotate(-45deg);
-          -webkit-transform: rotate(-45deg);
-          transform: rotate(-45deg);
-          vertical-align: middle;
-        }
-
-        body .u6496-mt_btn_top.arrow-only .u6496-mt-scrolltop-arrow {
-          margin-left: 0;
-          margin-top: 1px;
-        }
-
-        body .u6496-mt_btn_top:hover {
-          background: rgba(126,124,124, 1);
-          border-color: rgba(126,124,124, 1);
-          color: rgb(255,255,255);
-        }
-
-        body .u6496-mt_btn_top:hover .u6496-mt-scrolltop-arrow:after {
-          border-top: 2px solid rgb(255,255,255);
-          border-right: 2px solid rgb(255,255,255);
-        }
-
-        button::-moz-focus-inner {
-          border: none;
-        }
-
-      </style>
-    
-    <style>
-.AnimationID.circle.effect2 .info h3 {
-  color: #FFFFFF;
-  text-transform: uppercase;
-  position: relative;
-  letter-spacing: 2px;
-  font-size: 22px;
-  margin: 0 30px;
-  padding: 55px 0 0 0;
-  height: 110px;
-  text-shadow: 0 0 1px #FFFFFF, 0 1px 2px rgba(0, 0, 0, 0.3);
-}
-.AnimationID.circle.effect2 .info p {
-  color: #BBBBBB;
-  padding: 10px 5px;
-  font-style: italic;
-  margin: 0 30px;
-  font-size: 12px;
-  border-top: 1px solid rgba(255, 255, 255, 0.5);
-}
-</style>
-
- </head>
+   </head>
  <body>
 
-  <div class="clearfix" id="page"><!-- column -->
-   <div class="position_content" id="page_position_content">
-    <div class="browser_width colelem" id="u6059-bw">
-     <div id="u6059"><!-- simple frame --></div>
-    </div>
-    <div class="SlideShowWidget clearfix HeroFillFrame colelem" id="slideshowu5966"><!-- none box -->
-     <div class="popup_anchor" id="u5975popup">
-      <div class="SlideShowContentPanel clearfix" id="u5975"><!-- stack box -->
-       <div class="SSSlide clip_frame grpelem" id="u5980"><!-- image -->
-        <img class="ImageInclude" id="u5980_img" data-src="images/ccn1.png?crc=4161584636" src="images/blank.gif?crc=4208392903" alt="" data-width="1223" data-height="689"/>
+  <div class="breakpoint active" id="bp_infinity" data-min-width="1016"><!-- responsive breakpoint node -->
+   <div class="clearfix" id="page"><!-- column -->
+    <div class="position_content" id="page_position_content">
+     <div class="clearfix colelem" id="pmenuu2259"><!-- group -->
+      <nav class="MenuBar clearfix grpelem" id="menuu2259"><!-- horizontal box -->
+       <div class="MenuItemContainer borderbox clearfix grpelem" id="u2267"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix colelem" id="u2270" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u2271-4"><!-- content --><p class="shared_content" data-content-guid="u2271-4_0_content">Home</p></div></a>
        </div>
-       <div class="SSSlide invi clip_frame grpelem" id="u6243"><!-- image -->
-        <img class="ImageInclude" id="u6243_img" data-src="images/cct2.png?crc=4116086299" src="images/blank.gif?crc=4208392903" alt="" data-width="1223" data-height="689"/>
+       <div class="MenuItemContainer borderbox clearfix grpelem" id="u2260"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox transition clearfix colelem" id="u2263" href="products.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u2266-4"><!-- content --><p class="shared_content" data-content-guid="u2266-4_0_content">PRODUCTS</p></div></a>
        </div>
-       <div class="SSSlide invi clip_frame grpelem" id="u6384"><!-- image -->
-        <img class="ImageInclude" id="u6384_img" data-src="images/bio.png?crc=3907400966" src="images/blank.gif?crc=4208392903" alt="" data-width="1223" data-height="689"/>
+       <div class="MenuItemContainer borderbox clearfix grpelem" id="u2319"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox transition clearfix colelem" id="u2320" href="contact-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u2321-4"><!-- content --><p class="shared_content" data-content-guid="u2321-4_0_content">CONTACT US</p></div></a>
        </div>
-      </div>
-     </div>
-    </div>
-    <div class="clearfix colelem" id="pu5944-4"><!-- group -->
-     <img class="grpelem" id="u5944-4" alt="VALTAS ELECTRONICS" width="283" height="66" src="images/u5944-4.png?crc=4102733101"/><!-- rasterized frame -->
-     <div class="clip_frame grpelem" id="u5945"><!-- image -->
-      <img class="block" id="u5945_img" src="images/untitled-6.png?crc=3798920797" alt="" width="74" height="55"/>
-     </div>
-     <div class="browser_width grpelem" id="accordionu6062-bw">
-      <ul class="AccordionWidget clearfix" id="accordionu6062"><!-- vertical box -->
-       <li class="AccordionPanel clearfix colelem100" id="u6063"><!-- vertical box --><div class="AccordionPanelTab museBGSize clearfix colelem100" id="u6064-3"><!-- content --><p id="u6064">&nbsp;</p></div><div class="AccordionPanelContent clearfix colelem100" id="u6065"><!-- group --><div class="browser_width grpelem" id="menuu6066-bw"><nav class="MenuBar clearfix" id="menuu6066"><!-- vertical box --><div class="MenuItemContainer clearfix colelem100" id="u6067"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix" id="u6070" href="index.html"><!-- horizontal box --><div class="MenuItemLabel clearfix" id="u6072-4"><!-- content --><p>Home</p></div></a></div><div class="MenuItemContainer clearfix colelem100" id="u6115"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix" id="u6116" href="products.html"><!-- horizontal box --><div class="MenuItemLabel clearfix" id="u6118-4"><!-- content --><p>PRODUCTS</p></div></a></div><div class="MenuItemContainer clearfix colelem100" id="u6144"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix" id="u6147" href="contact-us.html"><!-- horizontal box --><div class="MenuItemLabel clearfix" id="u6150-4"><!-- content --><p>CONTACT US</p></div></a></div><div class="MenuItemContainer clearfix colelem100" id="u6172"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix" id="u6175" href="about.html"><!-- horizontal box --><div class="MenuItemLabel clearfix" id="u6178-4"><!-- content --><p>ABOUT</p></div></a></div></nav></div></div></li>
-      </ul>
-     </div>
-    </div>
-    <div class="clearfix colelem" id="pu6314-6"><!-- group -->
-     <div class="clearfix grpelem" id="u6314-6"><!-- content -->
-      <p>CURRENCY</p>
-      <p>COUNTING MACHINE</p>
-     </div>
-     <div class="clip_frame grpelem" id="u6315"><!-- image -->
-      <img class="block" id="u6315_img" src="images/currency-counter6.png?crc=3806351425" alt="" width="127" height="99"/>
-     </div>
-    </div>
-    <div class="clearfix colelem" id="u6317-26"><!-- content -->
-     <p id="u6317-2">UV: Fluorescent detection</p>
-     <p id="u6317-3">&nbsp;</p>
-     <p id="u6317-5">MG: Magnetic detection</p>
-     <p id="u6317-6">&nbsp;</p>
-     <p id="u6317-8">Counting Speed: 900pcs / Min</p>
-     <p id="u6317-9">&nbsp;</p>
-     <p id="u6317-11">Power Supply: AC220V 50HZ</p>
-     <p id="u6317-12">&nbsp;</p>
-     <p id="u6317-14">IR: Paper Thickness-note Struck</p>
-     <p id="u6317-16">together detection</p>
-     <p id="u6317-17">&nbsp;</p>
-     <p id="u6317-20"><span>For more similar products</span></p>
-     <p id="u6317-23"><span><span id="u6317-21">click here</span></span></p>
-     <p id="u6317-24">&nbsp;</p>
-    </div>
-    <div class="clearfix colelem" id="pu6349-4"><!-- group -->
-     <div class="clearfix grpelem" id="u6349-4"><!-- content -->
-      <p>AUTOMATIC TIMER</p>
-     </div>
-     <div class="clip_frame grpelem" id="u6350"><!-- image -->
-      <img class="block" id="u6350_img" src="images/71d4gjcdfsl_sl1500_.png?crc=4172918485" alt="" width="142" height="142"/>
-     </div>
-    </div>
-    <div class="clearfix colelem" id="u6352-34"><!-- content -->
-     <p id="u6352-4"><span id="u6352">control: </span><span id="u6352-2">L</span>amps, seasonal lighting,</p>
-     <p id="u6352-6">and portable fans. Program up to</p>
-     <p id="u6352-8">50 event settings per day</p>
-     <p id="u6352-9">&nbsp;</p>
-     <p id="u6352-12">Programmable&nbsp; :a<span id="u6352-11">ll days, weekdays,</span></p>
-     <p id="u6352-14"><span id="u6352-13">&nbsp;weekends; any day or combination of days.</span></p>
-     <p id="u6352-15">&nbsp;</p>
-     <p id="u6352-18">Replaceable battery <span id="u6352-17">keeps time during</span></p>
-     <p id="u6352-20"><span id="u6352-19">temporary power outages or while moving</span></p>
-     <p id="u6352-22"><span id="u6352-21">timer to another location</span></p>
-     <p id="u6352-23">&nbsp;</p>
-     <p id="u6352-26"><span>For more similar products</span></p>
-     <p id="u6352-29"><span>click here</span></p>
-     <p id="u6352-30">&nbsp;</p>
-     <p id="u6352-31">&nbsp;</p>
-     <p id="u6352-32">&nbsp;</p>
-    </div>
-    <div class="clearfix colelem" id="pu6411-4"><!-- group -->
-     <div class="clearfix grpelem" id="u6411-4"><!-- content -->
-      <p>Biometric</p>
-     </div>
-     <div class="clip_frame grpelem" id="u6412"><!-- image -->
-      <img class="block" id="u6412_img" src="images/bm3.jpg?crc=4068258452" alt="" width="129" height="96"/>
-     </div>
-    </div>
-    <div class="clearfix colelem" id="u6414-30"><!-- content -->
-     <p id="u6414-3"><span id="u6414">Features:</span> USB flash disk download</p>
-     <p id="u6414-5">Excel attendance reports.</p>
-     <p id="u6414-6">&nbsp;</p>
-     <p id="u6414-9"><span id="u6414-7">Identification time</span>: less than 1s</p>
-     <p id="u6414-11">with high standard fuzzy identification.</p>
-     <p id="u6414-12">&nbsp;</p>
-     <p id="u6414-14">High precision total reflection optical fingerprint sensor.</p>
-     <p id="u6414-15">&nbsp;</p>
-     <p id="u6414-17">Suitable for office, factory, hotel, school,</p>
-     <p id="u6414-19">restaurant, retail store, hospital.</p>
-     <p id="u6414-20">&nbsp;</p>
-     <p id="u6414-22">Fashionable appearance with HD screen and graceful design.</p>
-     <p id="u6414-25"><span>For more similar products</span></p>
-     <p id="u6414-28"><span>click here</span></p>
-    </div>
-    <div class="clearfix colelem" id="pu6468-4"><!-- group -->
-     <div class="clearfix grpelem" id="u6468-4"><!-- content -->
-      <p>CCTv</p>
-     </div>
-     <div class="clip_frame grpelem" id="u6470"><!-- image -->
-      <img class="block" id="u6470_img" src="images/cctv-1.png?crc=4255773787" alt="" width="133" height="102"/>
-     </div>
-    </div>
-    <div class="clearfix colelem" id="pu6469-44"><!-- group -->
-     <div class="clearfix grpelem" id="u6469-44"><!-- content -->
-      <p id="u6469-3"><span id="u6469">Day or Night Surveillance </span>True 1200TVL</p>
-      <p id="u6469-5">resolution for crisp, clear images</p>
-      <p id="u6469-7">&nbsp;in any lighting conditions</p>
-      <p id="u6469-8">&nbsp;</p>
-      <p id="u6469-10"><span id="u6469-9">High Performance Night Vision</span></p>
-      <p id="u6469-12">Equipped with 24 infrared LEDs with</p>
-      <p id="u6469-14">&nbsp;enhanced panel design for more uniform</p>
-      <p id="u6469-16">images and no vignetting.</p>
-      <p id="u6469-17">&nbsp;</p>
-      <p id="u6469-20"><span id="u6469-18">Easy Installation Features </span>a 3 point</p>
-      <p id="u6469-22">attachment mounting bracket with 3 way</p>
-      <p id="u6469-24">&nbsp;adjustable viewing angle for precise</p>
-      <p id="u6469-26">surveillance of any area.The heavy duty</p>
-      <p id="u6469-28">power and video port wires have a thru-bracket</p>
-      <p id="u6469-30">&nbsp;design for better protection and tamper resistance.</p>
-      <p id="u6469-31">&nbsp;</p>
-      <p id="u6469-34"><span>For more similar products</span></p>
-      <p id="u6469-37"><span>click here</span></p>
-      <p id="u6469-38">&nbsp;</p>
-      <p id="u6469-39">&nbsp;</p>
-      <p id="u6469-40">&nbsp;</p>
-      <p id="u6469-41">&nbsp;</p>
-      <p id="u6469-42">&nbsp;</p>
-     </div>
-     <img class="grpelem" id="u7530-4" alt="CONTACT US" width="250" height="78" src="images/u7530-4.png?crc=4026870484"/><!-- rasterized frame -->
-    </div>
-    <div class="clearfix colelem" id="pu7420"><!-- group -->
-     <div class="browser_width grpelem" id="u7420-bw">
-      <div class="clearfix" id="u7420"><!-- group -->
-       <div class="size_fixed grpelem" id="u6496"><!-- custom html -->
-        
-       
-    
+       <div class="MenuItemContainer borderbox clearfix grpelem" id="u2368"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox transition clearfix colelem" id="u2369" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem" id="u2370-4"><!-- content --><p class="shared_content" data-content-guid="u2370-4_0_content">ABOUT</p></div></a>
+       </div>
+      </nav>
+      <div class="SlideShowWidget clearfix HeroFillFrame grpelem" id="slideshowu345"><!-- none box -->
+       <div class="popup_anchor" id="u357popup">
+        <div class="SlideShowContentPanel clearfix" id="u357"><!-- stack box -->
+         <div class="SSSlide clip_frame grpelem" id="u360"><!-- image -->
+          <img class="ImageInclude" id="u360_img" data-src="images/ccm.png?crc=4180082413" src="images/blank.gif?crc=4208392903" alt="" data-width="1198" data-height="675"/>
+         </div>
+         <div class="SSSlide invi clip_frame grpelem" id="u3855"><!-- image -->
+          <img class="ImageInclude" id="u3855_img" data-src="images/at2.png?crc=3829951496" src="images/blank.gif?crc=4208392903" alt="" data-width="1172" data-height="675"/>
+         </div>
+         <div class="SSSlide invi clip_frame grpelem" id="u3902"><!-- image -->
+          <img class="ImageInclude" id="u3902_img" data-src="images/bm.jpg?crc=293511870" src="images/blank.gif?crc=4208392903" alt="" data-width="1198" data-height="675"/>
+         </div>
+         <div class="SSSlide invi clip_frame grpelem" id="u3949"><!-- image -->
+          <img class="ImageInclude" id="u3949_img" data-src="images/cctv.png?crc=4221956119" src="images/blank.gif?crc=4208392903" alt="" data-width="1198" data-height="675"/>
+         </div>
+        </div>
        </div>
       </div>
+      <img class="grpelem temp_no_img_src" id="u498-4" alt="VALTAS ELECTRONICS" width="522" height="60" data-orig-src="images/u498-4.png?crc=306048445" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+      <div class="clip_frame grpelem" id="u734"><!-- image -->
+       <img class="block temp_no_img_src" id="u734_img" data-orig-src="images/untitled-6.png?crc=3798920797" alt="" width="74" height="55" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <img class="grpelem temp_no_img_src" id="u5699-4" alt="+91 9066 821 238" width="196" height="51" data-orig-src="images/u5699-4.png?crc=3951098292" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
      </div>
-     <form class="form-grp clearfix grpelem" id="widgetu7368" method="post" enctype="multipart/form-data" action="scripts/form-u7368.php"><!-- none box -->
-      <div class="fld-grp clearfix grpelem" id="widgetu7369" data-required="true"><!-- none box -->
-       <label class="fld-label actAsDiv clearfix grpelem" id="u7372-4" for="widgetu7369_input"><!-- content --><span class="actAsPara">Name:</span></label>
-       <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u7370-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu7369_input" name="custom_U7369" tabindex="1"/><label class="wrapped-input fld-prompt" id="widgetu7369_prompt" for="widgetu7369_input"><span class="actAsPara">Enter Name</span></label></span>
+     <div class="clearfix colelem shared_content" id="pu2980-6" data-content-guid="pu2980-6_content"><!-- group -->
+      <div class="clearfix grpelem shared_content" id="u2980-6" data-content-guid="u2980-6_content"><!-- content -->
+       <p>CURRENCY</p>
+       <p>COUNTING MACHINE</p>
       </div>
-      <div class="fld-grp clearfix grpelem" id="widgetu7374" data-required="true" data-type="email"><!-- none box -->
-       <label class="fld-label actAsDiv clearfix grpelem" id="u7377-4" for="widgetu7374_input"><!-- content --><span class="actAsPara">Email:</span></label>
-       <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u7375-4"><!-- content --><input class="wrapped-input" type="email" spellcheck="false" id="widgetu7374_input" name="Email" tabindex="2"/><label class="wrapped-input fld-prompt" id="widgetu7374_prompt" for="widgetu7374_input"><span class="actAsPara">Enter Email</span></label></span>
+      <div class="clearfix grpelem shared_content" id="u2985-4" data-content-guid="u2985-4_content"><!-- content -->
+       <p>AUTOMATIC TIMER</p>
       </div>
-      <div class="clearfix grpelem" id="u7382-4"><!-- content -->
-       <p>Submitting Form...</p>
+      <div class="clearfix grpelem shared_content" id="u3997-4" data-content-guid="u3997-4_content"><!-- content -->
+       <p>Biometric</p>
       </div>
-      <div class="clearfix grpelem" id="u7384-4"><!-- content -->
-       <p>The server encountered an error.</p>
-      </div>
-      <div class="clearfix grpelem" id="u7383-4"><!-- content -->
-       <p>Form received.</p>
-      </div>
-      <button class="submit-btn NoWrap rounded-corners clearfix grpelem" id="u7373-4" type="submit" value="Submit" tabindex="5"><!-- content -->
-       <div style="margin-top:-11px;height:11px;">
-        <p>Submit</p>
+     </div>
+     <div class="clearfix colelem" id="ppu4075"><!-- group -->
+      <div class="clearfix grpelem" id="pu4075"><!-- group -->
+       <div class="clip_frame grpelem" id="u4075"><!-- image -->
+        <img class="block temp_no_img_src" id="u4075_img" data-orig-src="images/71d4gjcdfsl_sl1500_.png?crc=4172918485" alt="" width="110" height="110" src="images/blank.gif?crc=4208392903"/>
        </div>
-      </button>
-      <div class="fld-grp clearfix grpelem" id="widgetu7378" data-required="false"><!-- none box -->
-       <label class="fld-label actAsDiv clearfix grpelem" id="u7381-4" for="widgetu7378_input"><!-- content --><span class="actAsPara">Message:</span></label>
-       <span class="fld-textarea actAsDiv clearfix grpelem" id="u7379-4"><!-- content --><textarea class="wrapped-input" id="widgetu7378_input" name="custom_U7378" tabindex="3"></textarea><label class="wrapped-input fld-prompt" id="widgetu7378_prompt" for="widgetu7378_input"><span class="actAsPara">Enter Your Message</span></label></span>
+       <div class="clearfix grpelem shared_content" id="u4091-34" data-content-guid="u4091-34_content"><!-- content -->
+        <p id="u4091-4"><span id="u4091">control: </span><span id="u4091-2">L</span>amps, seasonal lighting,</p>
+        <p id="u4091-6">and portable fans. Program up to</p>
+        <p id="u4091-8">50 event settings per day</p>
+        <p id="u4091-9">&nbsp;</p>
+        <p id="u4091-12">Programmable&nbsp; :a<span id="u4091-11">ll days, weekdays,</span></p>
+        <p id="u4091-14"><span id="u4091-13">&nbsp;weekends; any day or combination of days.</span></p>
+        <p id="u4091-15">&nbsp;</p>
+        <p id="u4091-18">Replaceable battery <span id="u4091-17">keeps time during</span></p>
+        <p id="u4091-20"><span id="u4091-19">temporary power outages or while moving</span></p>
+        <p id="u4091-22"><span id="u4091-21">timer to another location</span></p>
+        <p id="u4091-23">&nbsp;</p>
+        <p id="u4091-26"><a class="nonblock" href="products.html">For more similar products</a></p>
+        <p id="u4091-29"><a class="nonblock" href="products.html">click here</a></p>
+        <p id="u4091-30">&nbsp;</p>
+        <p id="u4091-31">&nbsp;</p>
+        <p id="u4091-32">&nbsp;</p>
+       </div>
       </div>
-      <div class="fld-grp clearfix grpelem" id="widgetu7423" data-required="true"><!-- none box -->
-       <label class="fld-label actAsDiv clearfix grpelem" id="u7424-4" for="widgetu7423_input"><!-- content --><span class="actAsPara">Mobile Phone:</span></label>
-       <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u7425-4"><!-- content --><input class="wrapped-input" type="tel" spellcheck="false" id="widgetu7423_input" name="custom_U7423" tabindex="4"/><label class="wrapped-input fld-prompt" id="widgetu7423_prompt" for="widgetu7423_input"><span class="actAsPara">Enter Phone Number</span></label></span>
+      <div class="clip_frame grpelem" id="u4003"><!-- image -->
+       <img class="block temp_no_img_src" id="u4003_img" data-orig-src="images/currency-counter6.png?crc=3806351425" alt="" width="127" height="99" src="images/blank.gif?crc=4208392903"/>
       </div>
-     </form>
-    </div>
-    <div class="verticalspacer" data-offset-top="3115" data-content-above-spacer="3115" data-content-below-spacer="0"></div>
-    <div class="size_fixed colelem" id="u6201"><!-- custom html -->
+      <div class="clearfix grpelem shared_content" id="u4015-26" data-content-guid="u4015-26_content"><!-- content -->
+       <p id="u4015-2">UV: Fluorescent detection</p>
+       <p id="u4015-3">&nbsp;</p>
+       <p id="u4015-5">MG: Magnetic detection</p>
+       <p id="u4015-6">&nbsp;</p>
+       <p id="u4015-8">Counting Speed: 900pcs / Min</p>
+       <p id="u4015-9">&nbsp;</p>
+       <p id="u4015-11">Power Supply: AC220V 50HZ</p>
+       <p id="u4015-12">&nbsp;</p>
+       <p id="u4015-14">IR: Paper Thickness-note Struck</p>
+       <p id="u4015-16">together detection</p>
+       <p id="u4015-17">&nbsp;</p>
+       <p id="u4015-20"><a class="nonblock" href="products.html">For more similar products</a></p>
+       <p id="u4015-23"><a class="nonblock" href="products.html"><span id="u4015-21">click here</span></a></p>
+       <p id="u4015-24">&nbsp;</p>
+      </div>
+      <div class="clip_frame grpelem" id="u4106"><!-- image -->
+       <img class="block temp_no_img_src" id="u4106_img" data-orig-src="images/bm3103x77.jpg?crc=3847436465" alt="" width="102" height="76" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clearfix grpelem shared_content" id="u4150-30" data-content-guid="u4150-30_content"><!-- content -->
+       <p id="u4150-3"><span id="u4150">Features:</span> USB flash disk download</p>
+       <p id="u4150-5">Excel attendance reports.</p>
+       <p id="u4150-6">&nbsp;</p>
+       <p id="u4150-9"><span id="u4150-7">Identification time</span>: less than 1s</p>
+       <p id="u4150-11">with high standard fuzzy identification.</p>
+       <p id="u4150-12">&nbsp;</p>
+       <p id="u4150-14">High precision total reflection optical fingerprint sensor.</p>
+       <p id="u4150-15">&nbsp;</p>
+       <p id="u4150-17">Suitable for office, factory, hotel, school,</p>
+       <p id="u4150-19">restaurant, retail store, hospital.</p>
+       <p id="u4150-20">&nbsp;</p>
+       <p id="u4150-22">Fashionable appearance with HD screen and graceful design.</p>
+       <p id="u4150-25"><a class="nonblock" href="products.html">For more similar products</a></p>
+       <p id="u4150-28"><a class="nonblock" href="products.html">click here</a></p>
+      </div>
+     </div>
+     <div class="clearfix colelem shared_content" id="pu5237-4" data-content-guid="pu5237-4_content"><!-- group -->
+      <div class="clearfix grpelem" id="u5237-4"><!-- content -->
+       <p>CCTv</p>
+      </div>
+      <div class="clearfix grpelem" id="u6446-44"><!-- content -->
+       <p id="u6446-3"><span id="u6446">Day or Night Surveillance </span>True 1200TVL</p>
+       <p id="u6446-5">resolution for crisp, clear images</p>
+       <p id="u6446-7">&nbsp;in any lighting conditions</p>
+       <p id="u6446-8">&nbsp;</p>
+       <p id="u6446-10"><span id="u6446-9">High Performance Night Vision</span></p>
+       <p id="u6446-12">Equipped with 24 infrared LEDs with</p>
+       <p id="u6446-14">&nbsp;enhanced panel design for more uniform</p>
+       <p id="u6446-16">images and no vignetting.</p>
+       <p id="u6446-17">&nbsp;</p>
+       <p id="u6446-20"><span id="u6446-18">Easy Installation Features </span>a 3 point</p>
+       <p id="u6446-22">attachment mounting bracket with 3 way</p>
+       <p id="u6446-24">&nbsp;adjustable viewing angle for precise</p>
+       <p id="u6446-26">surveillance of any area.The heavy duty</p>
+       <p id="u6446-28">power and video port wires have a thru-bracket</p>
+       <p id="u6446-30">&nbsp;design for better protection and tamper resistance.</p>
+       <p id="u6446-31">&nbsp;</p>
+       <p id="u6446-34"><a class="nonblock" href="products.html">For more similar products</a></p>
+       <p id="u6446-37"><a class="nonblock" href="products.html">click here</a></p>
+       <p id="u6446-38">&nbsp;</p>
+       <p id="u6446-39">&nbsp;</p>
+       <p id="u6446-40">&nbsp;</p>
+       <p id="u6446-41">&nbsp;</p>
+       <p id="u6446-42">&nbsp;</p>
+      </div>
+      <div class="clip_frame grpelem" id="u6452"><!-- image -->
+       <img class="block temp_no_img_src" id="u6452_img" data-orig-src="images/cctv-1.png?crc=4255773787" alt="" width="133" height="102" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <div class="verticalspacer" data-offset-top="1679" data-content-above-spacer="1679" data-content-below-spacer="62"></div>
+     <div class="browser_width colelem shared_content" id="u997-bw" data-content-guid="u997-bw_content">
+      <div id="u997"><!-- simple frame --></div>
+     </div>
     </div>
    </div>
   </div>
-  <div class="preload_images">
-   <img class="preload" src="images/visualeditor_-_icon_-_menusvg-u6064-3-fr.png?crc=87117005" alt=""/>
-   <img class="preload" src="images/multiplication-symbol-icon-0910125830-u6064-3-a-fr.png?crc=3793888727" alt=""/>
+  <div class="breakpoint" id="bp_1015" data-min-width="961" data-max-width="1015"><!-- responsive breakpoint node -->
+   <div class="clearfix temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="position_content temp_no_id" data-orig-id="page_position_content">
+     <div class="clearfix colelem" id="pu734"><!-- group -->
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u734"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/untitled-6.png?crc=3798920797" alt="" width="70" height="52" data-orig-id="u734_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <img class="grpelem temp_no_id temp_no_img_src" alt="+91 9066 821 238" width="196" height="51" data-orig-src="images/u5699-42.png?crc=3951098292" data-orig-id="u5699-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+     </div>
+     <nav class="MenuBar clearfix mse_pre_init temp_no_id" data-orig-id="menuu2259"><!-- horizontal box -->
+      <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u2267"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u2270"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u2271-4"><!-- content --><span class="placeholder" data-placeholder-for="u2271-4_0_content"><!-- placeholder node --></span></div></a>
+      </div>
+      <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u2260"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox transition clearfix colelem temp_no_id" href="products.html" data-orig-id="u2263"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u2266-4"><!-- content --><span class="placeholder" data-placeholder-for="u2266-4_0_content"><!-- placeholder node --></span></div></a>
+      </div>
+      <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u2319"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox transition clearfix colelem temp_no_id" href="contact-us.html" data-orig-id="u2320"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u2321-4"><!-- content --><span class="placeholder" data-placeholder-for="u2321-4_0_content"><!-- placeholder node --></span></div></a>
+      </div>
+      <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u2368"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox transition clearfix colelem temp_no_id" href="about.html" data-orig-id="u2369"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u2370-4"><!-- content --><span class="placeholder" data-placeholder-for="u2370-4_0_content"><!-- placeholder node --></span></div></a>
+      </div>
+     </nav>
+     <div class="clearfix colelem" id="pslideshowu345"><!-- group -->
+      <div class="SlideShowWidget clearfix HeroFillFrame grpelem temp_no_id" data-orig-id="slideshowu345"><!-- none box -->
+       <div class="popup_anchor temp_no_id" data-orig-id="u357popup">
+        <div class="SlideShowContentPanel clearfix temp_no_id" data-orig-id="u357"><!-- stack box -->
+         <div class="SSSlide clip_frame grpelem temp_no_id" data-orig-id="u360"><!-- image -->
+          <img class="ImageInclude temp_no_id" data-src="images/ccm.png?crc=4180082413" src="images/blank.gif?crc=4208392903" alt="" data-width="1159" data-height="653" data-orig-id="u360_img"/>
+         </div>
+         <div class="SSSlide invi clip_frame grpelem temp_no_id" data-orig-id="u3855"><!-- image -->
+          <img class="ImageInclude temp_no_id" data-src="images/at2.png?crc=3829951496" src="images/blank.gif?crc=4208392903" alt="" data-width="1134" data-height="653" data-orig-id="u3855_img"/>
+         </div>
+         <div class="SSSlide invi clip_frame grpelem temp_no_id" data-orig-id="u3902"><!-- image -->
+          <img class="ImageInclude temp_no_id" data-src="images/bm.jpg?crc=293511870" src="images/blank.gif?crc=4208392903" alt="" data-width="1159" data-height="653" data-orig-id="u3902_img"/>
+         </div>
+         <div class="SSSlide invi clip_frame grpelem temp_no_id" data-orig-id="u3949"><!-- image -->
+          <img class="ImageInclude temp_no_id" data-src="images/cctv.png?crc=4221956119" src="images/blank.gif?crc=4208392903" alt="" data-width="1159" data-height="653" data-orig-id="u3949_img"/>
+         </div>
+        </div>
+       </div>
+      </div>
+      <img class="grpelem temp_no_id temp_no_img_src" alt="VALTAS ELECTRONICS" width="493" height="60" data-orig-src="images/u498-42.png?crc=138493433" data-orig-id="u498-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+     </div>
+     <div class="clearfix colelem" id="ppu3997-4"><!-- group -->
+      <div class="clearfix grpelem" id="pu3997-4"><!-- column -->
+       <span class="clearfix colelem placeholder" data-placeholder-for="u3997-4_content"><!-- placeholder node --></span>
+       <div class="clearfix colelem" id="pu4106"><!-- group -->
+        <div class="clip_frame grpelem temp_no_id" data-orig-id="u4106"><!-- image -->
+         <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bm397x72.jpg?crc=4184504445" alt="" width="97" height="72" data-orig-id="u4106_img" src="images/blank.gif?crc=4208392903"/>
+        </div>
+        <span class="clearfix grpelem placeholder" data-placeholder-for="u4150-30_content"><!-- placeholder node --></span>
+       </div>
+      </div>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u2980-6_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u2985-4_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u4003"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/currency-counter6.png?crc=3806351425" alt="" width="120" height="94" data-orig-id="u4003_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u4015-26_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u4075"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/71d4gjcdfsl_sl1500_.png?crc=4172918485" alt="" width="104" height="104" data-orig-id="u4075_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u4091-34_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu5237-4_content"><!-- placeholder node --></span>
+     <div class="verticalspacer" data-offset-top="1679" data-content-above-spacer="1679" data-content-below-spacer="62"></div>
+     <span class="browser_width colelem placeholder" data-placeholder-for="u997-bw_content"><!-- placeholder node --></span>
+    </div>
+   </div>
   </div>
-  <!-- JS includes -->
-  <script type="text/javascript">
-   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
-</script>
-  <script type="text/javascript">
-   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
-</script>
+  <div class="breakpoint" id="bp_960" data-max-width="960"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="clearfix colelem" id="pu997"><!-- group -->
+     <span class="browser_width grpelem placeholder" data-placeholder-for="u997-bw_content"><!-- placeholder node --></span>
+     <div class="clip_frame grpelem temp_no_id" data-orig-id="u734"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/untitled-6.png?crc=3798920797" alt="" data-image-width="66" data-image-height="49" data-orig-id="u734_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <img class="grpelem temp_no_id temp_no_img_src" alt="+91 9066 821 238" width="196" height="51" data-orig-src="images/u5699-43.png?crc=3951098292" data-orig-id="u5699-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+    </div>
+    <div class="clearfix colelem temp_no_id" data-orig-id="pmenuu2259"><!-- group -->
+     <nav class="MenuBar clearfix grpelem temp_no_id" data-orig-id="menuu2259"><!-- horizontal box -->
+      <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u2267"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive borderbox clearfix colelem temp_no_id" href="index.html" data-orig-id="u2270"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u2271-4"><!-- content --><span class="placeholder" data-placeholder-for="u2271-4_0_content"><!-- placeholder node --></span></div></a>
+      </div>
+      <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u2260"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox transition clearfix colelem temp_no_id" href="products.html" data-orig-id="u2263"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u2266-4"><!-- content --><span class="placeholder" data-placeholder-for="u2266-4_0_content"><!-- placeholder node --></span></div></a>
+      </div>
+      <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u2319"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox transition clearfix colelem temp_no_id" href="contact-us.html" data-orig-id="u2320"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u2321-4"><!-- content --><span class="placeholder" data-placeholder-for="u2321-4_0_content"><!-- placeholder node --></span></div></a>
+      </div>
+      <div class="MenuItemContainer borderbox clearfix grpelem temp_no_id" data-orig-id="u2368"><!-- vertical box -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox transition clearfix colelem temp_no_id" href="about.html" data-orig-id="u2369"><!-- horizontal box --><div class="MenuItemLabel NoWrap borderbox clearfix grpelem temp_no_id" data-orig-id="u2370-4"><!-- content --><span class="placeholder" data-placeholder-for="u2370-4_0_content"><!-- placeholder node --></span></div></a>
+      </div>
+     </nav>
+     <div class="SlideShowWidget clearfix HeroFillFrame grpelem temp_no_id" data-orig-id="slideshowu345"><!-- none box -->
+      <div class="popup_anchor temp_no_id" data-orig-id="u357popup">
+       <div class="SlideShowContentPanel clearfix temp_no_id" data-orig-id="u357"><!-- stack box -->
+        <div class="SSSlide clip_frame grpelem temp_no_id" data-orig-id="u360"><!-- image -->
+         <img class="ImageInclude temp_no_id" data-src="images/ccm.png?crc=4180082413" src="images/blank.gif?crc=4208392903" alt="" data-width="1159" data-height="653" data-orig-id="u360_img"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem temp_no_id" data-orig-id="u3855"><!-- image -->
+         <img class="ImageInclude temp_no_id" data-src="images/at2.png?crc=3829951496" src="images/blank.gif?crc=4208392903" alt="" data-width="1134" data-height="653" data-orig-id="u3855_img"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem temp_no_id" data-orig-id="u3902"><!-- image -->
+         <img class="ImageInclude temp_no_id" data-src="images/bm.jpg?crc=293511870" src="images/blank.gif?crc=4208392903" alt="" data-width="1159" data-height="653" data-orig-id="u3902_img"/>
+        </div>
+        <div class="SSSlide invi clip_frame grpelem temp_no_id" data-orig-id="u3949"><!-- image -->
+         <img class="ImageInclude temp_no_id" data-src="images/cctv.png?crc=4221956119" src="images/blank.gif?crc=4208392903" alt="" data-width="1159" data-height="653" data-orig-id="u3949_img"/>
+        </div>
+       </div>
+      </div>
+     </div>
+     <img class="grpelem temp_no_id temp_no_img_src" alt="VALTAS ELECTRONICS" data-orig-src="images/u498-43.png?crc=4231292673" data-image-width="467" data-orig-id="u498-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+    </div>
+    <span class="clearfix colelem placeholder" data-placeholder-for="pu2980-6_content"><!-- placeholder node --></span>
+    <div class="clearfix colelem" id="pu4015-26"><!-- group -->
+     <span class="clearfix grpelem placeholder" data-placeholder-for="u4015-26_content"><!-- placeholder node --></span>
+     <div class="clip_frame grpelem temp_no_id" data-orig-id="u4003"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/currency-counter6.png?crc=3806351425" alt="" data-image-width="113" data-image-height="89" data-orig-id="u4003_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <div class="clearfix grpelem temp_no_id" data-orig-id="pu4106"><!-- group -->
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u4106"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/bm392x68.jpg?crc=3991470411" alt="" data-image-width="91" data-image-height="68" data-orig-id="u4106_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u4150-30_content"><!-- placeholder node --></span>
+     </div>
+     <div class="clip_frame grpelem temp_no_id" data-orig-id="u4075"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/71d4gjcdfsl_sl1500_.png?crc=4172918485" alt="" data-image-width="98" data-image-height="98" data-orig-id="u4075_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix grpelem placeholder" data-placeholder-for="u4091-34_content"><!-- placeholder node --></span>
+    </div>
+    <span class="clearfix colelem placeholder" data-placeholder-for="pu5237-4_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="1679" data-content-above-spacer="1679" data-content-below-spacer="62"></div>
+   </div>
+  </div>
   <!-- Other scripts -->
   <script type="text/javascript">
    // Decide weather to suppress missing file error or not based on preference setting
@@ -345,132 +344,24 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.musepolyfill.bgsize","jquery.musemenu","musewpdisclosure"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.watch","jquery.scrolleffects","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.initWidget('#slideshowu5966', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu5966 */
-Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-Muse.Utils.initWidget('#accordionu6062', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:0}); });/* #accordionu6062 */
-Muse.Utils.initWidget('#widgetu7368', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu7368 */
-Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1015', '#bp_960'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#slideshowu345', ['#bp_infinity', '#bp_1015', '#bp_960'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu345 */
+$('#bp_1015').one('muse_this_bp_activate', function(){
+$('#menuu2259').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,79.9]},{"speed":[0,0],"in":[79.9,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=85721165" type="text/javascript" async data-main="scripts/museconfig.js?crc=436936948" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
-  
-  <!--HTML Widget code-->
-  
-      <script>
-        console.log("Back To Top Button (1.1) - MuseThemes");
-      </script>
-
-      <script>
-      var checkIfNoteMuse = $('#page').length;
-
-      if (checkIfNoteMuse !== 0) {
-
-        function debounce(func, wait, immediate) {
-          var timeout;
-          return function () {
-            var context = this, args = arguments;
-            var later = function () {
-              timeout = null;
-              if (!immediate) func.apply(context, args);
-            };
-        
-            var callNow = immediate && !timeout;
-            clearTimeout(timeout);
-            timeout = setTimeout(later, wait);
-            if (callNow) func.apply(context, args);
-          };
-        }
-
-        $(document).ready(function(){
-
-          var buttonText = 'TOP';
-
-          if (buttonText.length > 0) {
-            $('body').append('<a href="#" class="u6496-mt_btn_top">TOP <span class="u6496-mt-scrolltop-arrow"></span></a>');
-          } else {
-            $('body').append('<a href="#" class="u6496-mt_btn_top arrow-only"><span class="u6496-mt-scrolltop-arrow"></span></a>');
-          }
-
-          if ("disable" == "enable") {
-            $( "<style>@media (min-width: 720px) and (max-width: 1280px) {body .u6496-mt_btn_top {display: none !important;}}</style>" ).appendTo( "head" );
-          }
-
-          var scrollSpeed = 400;
-          var $base = $('html, body');
-          var alignment = 'right';
-
-          switch(alignment) {
-            case 'center':
-              var paddingBottom = '20';
-              var widthOfElement = $('.u6496-mt_btn_top').outerWidth();
-              widthOfElement = widthOfElement / 2;
-              $('.u6496-mt_btn_top').css('left', '50%');
-              $('.u6496-mt_btn_top').css('margin-left', '-' + widthOfElement + 'px');
-              $('.u6496-mt_btn_top').css('bottom', paddingBottom + 'px');
-            break;
-
-            case 'left':
-              var paddingLeft = '30';
-              var paddingBottom = '20';
-              $('.u6496-mt_btn_top').css('left', paddingLeft + 'px');
-              $('.u6496-mt_btn_top').css('bottom', paddingBottom + 'px');
-            break;
-
-            case 'right':
-              var paddingRight = '30';
-              var paddingBottom = '20';
-              $('.u6496-mt_btn_top').css('right', paddingRight + 'px');
-              $('.u6496-mt_btn_top').css('bottom', paddingBottom + 'px');
-            break;
-
-            default: 
-              var paddingBottom = '20';
-              $('.u6496-mt_btn_top').css('left', '50%');
-              $('.u6496-mt_btn_top').css('bottom', paddingBottom + 'px');
-            break;
-          }
-
-          $('.u6496-mt_btn_top').on('click', function(e){
-            
-            e.preventDefault();
-            
-            $base.animate({
-              scrollTop: 0
-            }, scrollSpeed);
-
-          });
-
-          var showButtonValue = parseInt('100');
-
-          var showOrHideButton = debounce(function(){
-
-            if ($(window).scrollTop() > showButtonValue) {
-              $('.u6496-mt_btn_top').addClass('show_scroll');
-            } else {
-              $('.u6496-mt_btn_top').removeClass('show_scroll');
-            }
-
-          }, 200);
-
-          $(window).scroll(function(){
-            showOrHideButton();
-          });
-
-
-        });
-      }  
-      </script>
-
-    
    </body>
 </html>

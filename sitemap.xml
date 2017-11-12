@@ -1,93 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://valtaselectronic.com/index.html</loc>
+    <loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/index.html</loc>
     <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://valtaselectroncs.github.io/valtaselectronics.github.io/phone/index.html"/>
     <image:image>
-      <image:loc>http://valtaselectronic.com/images/ccn1.png</image:loc>
+      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/untitled-6.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://valtaselectronic.com/images/cct2.png</image:loc>
+      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/currency-counter6.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://valtaselectronic.com/images/bio.png</image:loc>
+      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/71d4gjcdfsl_sl1500_.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://valtaselectronic.com/images/untitled-6.png</image:loc>
+      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/cctv-1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://valtaselectronic.com/images/currency-counter6.png</image:loc>
+      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/ccm.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://valtaselectronic.com/images/71d4gjcdfsl_sl1500_.png</image:loc>
+      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/at2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://valtaselectronic.com/images/bm3.jpg</image:loc>
+      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/bm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://valtaselectronic.com/images/cctv-1.png</image:loc>
+      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/cctv.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/bm3103x77.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/bm397x72.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/bm392x68.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://valtaselectronic.com/products.html</loc>
+    <loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/products.html</loc>
     <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/untitled-6.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/0d59181d-e29c-423d-b455-88a523dce8a8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/currency-counter7.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/19c0be5d-8d6f-4469-865f-b59d6301705d.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/bundle-note-counting-machine2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/currency-counter8.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/dd6e2bee-c227-458c-be19-f83a7f4efb1c.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/e0cc6da6-a97a-4e6a-86d1-7c453d1d64dc.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/surveillance-camera-vector-shape3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/images.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/cctv-1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/twilightprobulletcams.png</image:loc>
-    </image:image>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://valtaselectroncs.github.io/valtaselectronics.github.io/phone/products.html"/>
   </url>
   <url>
-    <loc>http://valtaselectronic.com/contact-us.html</loc>
+    <loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/contact-us.html</loc>
     <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/untitled-6.png</image:loc>
-    </image:image>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://valtaselectroncs.github.io/valtaselectronics.github.io/phone/contact-us.html"/>
   </url>
   <url>
-    <loc>http://valtaselectronic.com/about.html</loc>
+    <loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/about.html</loc>
     <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/untitled-6.png</image:loc>
-    </image:image>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://valtaselectroncs.github.io/valtaselectronics.github.io/phone/about.html"/>
   </url>
 </urlset>
