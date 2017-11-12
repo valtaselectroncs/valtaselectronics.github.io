@@ -5,7 +5,15 @@
     <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://valtaselectronic.com/phone/index.html"/>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/ccn1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/cct2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/bio.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://valtaselectronic.com/images/untitled-6.png</image:loc>
     </image:image>
@@ -16,28 +24,10 @@
       <image:loc>http://valtaselectronic.com/images/71d4gjcdfsl_sl1500_.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://valtaselectronic.com/images/cctv-1.jpg</image:loc>
+      <image:loc>http://valtaselectronic.com/images/bm3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://valtaselectronic.com/images/ccm.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/at2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/bm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/cctv.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/bm3103x77.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/bm397x72.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/bm392x68.jpg</image:loc>
+      <image:loc>http://valtaselectronic.com/images/cctv-1.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -45,20 +35,59 @@
     <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://valtaselectronic.com/phone/products.html"/>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/untitled-6.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/0d59181d-e29c-423d-b455-88a523dce8a8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/currency-counter7.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/19c0be5d-8d6f-4469-865f-b59d6301705d.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/bundle-note-counting-machine2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/currency-counter8.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/dd6e2bee-c227-458c-be19-f83a7f4efb1c.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/e0cc6da6-a97a-4e6a-86d1-7c453d1d64dc.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/surveillance-camera-vector-shape3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/images.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/cctv-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/twilightprobulletcams.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://valtaselectronic.com/contact-us.html</loc>
     <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://valtaselectronic.com/phone/contact-us.html"/>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/untitled-6.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://valtaselectronic.com/about.html</loc>
     <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://valtaselectronic.com/phone/about.html"/>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/untitled-6.png</image:loc>
+    </image:image>
   </url>
 </urlset>
