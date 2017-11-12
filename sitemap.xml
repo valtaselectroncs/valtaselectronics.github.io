@@ -46,30 +46,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://valtaselectronic.com/phone/products.html"/>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/at2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/span4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/banner4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/span1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/span3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/span5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/span2.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://valtaselectronic.com/contact-us.html</loc>

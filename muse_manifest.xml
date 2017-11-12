@@ -1,16 +1,15 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="valtaselectronic.com" resolutions="1x" timestamp="1510498915629">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="valtaselectronic.com" resolutions="1x" timestamp="1510499270774">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="371542197" ref="phone>index"/>
-      <file name="about.css" crc="106110084" ref="phone>about"/>
-      <file name="nomq_about.css" crc="3824530138" ref="phone>about"/>
-      <file name="products.css" crc="39353617" ref="phone>products"/>
+      <file name="about.css" crc="94758316" ref="phone>about"/>
+      <file name="products.css" crc="3843108820" ref="phone>products"/>
       <file name="contact-us.css" crc="4077230702" ref="phone>contact-us"/>
     </folder>
     <file name="index.html" crc="4097454045" seo="true" mt="1510498887470" redirect="true"/>
-    <file name="products.html" crc="4243301479" seo="true" mt="1510498089347" redirect="true"/>
+    <file name="products.html" crc="402631535" seo="true" mt="1510499112685" redirect="true"/>
     <file name="contact-us.html" crc="87522290" seo="true" mt="1510497706686" redirect="true"/>
-    <file name="about.html" crc="3795037627" seo="true" mt="1510497312894" redirect="true"/>
+    <file name="about.html" crc="4261480641" seo="true" mt="1510499194128" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="480281256"/>
@@ -18,7 +17,7 @@
     <file name="contact-us.css" crc="4193191577" ref="contact-us"/>
     <file name="about.css" crc="4193191577" ref="about"/>
     <file name="nomq_index.css" crc="3766170273" ref="index"/>
-    <file name="products.css" crc="4192945345" ref="products"/>
+    <file name="products.css" crc="4193191577" ref="products"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:phone>products:phone>contact-us:phone>about:products:contact-us:about"/>
@@ -27,10 +26,10 @@
     <file name="museconfig.js" crc="436936948" ref="index:phone>index:phone>products:phone>contact-us:phone>about:products:contact-us:about"/>
     <file name="jquery.watch.js" crc="4178585335" ref="index:phone>index:phone>products:phone>contact-us:phone>about:products:contact-us:about"/>
     <file name="require.js" crc="85721165" ref="index:phone>index:phone>products:phone>contact-us:phone>about:products:contact-us:about"/>
-    <file name="webpro.js" crc="4152390327" ref="phone>index:phone>products:phone>contact-us:phone>about:index:products"/>
-    <file name="musewpslideshow.js" crc="380562115" ref="phone>index:index:products"/>
-    <file name="jquery.museoverlay.js" crc="3986278607" ref="phone>index:index:products"/>
-    <file name="touchswipe.js" crc="4228958816" ref="phone>index:index:products"/>
+    <file name="webpro.js" crc="4152390327" ref="phone>index:phone>products:phone>contact-us:phone>about:index"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="phone>index:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="phone>index:phone>products:phone>contact-us:phone>about"/>
     <file name="jquery.musemenu.js" crc="3936200140" ref="phone>index:phone>products:phone>contact-us:phone>about:index"/>
     <file name="musewpdisclosure.js" crc="204784597" ref="phone>index:phone>products:phone>contact-us:phone>about"/>
@@ -38,8 +37,8 @@
     <file name="form_throttle.php" crc="313199896" ref="phone>index"/>
     <file name="form_process.php" crc="3855659497" ref="phone>index"/>
     <file name="form-u7368.php" crc="447265559" ref="phone>index"/>
-    <file name="jquery.scrolleffects.js" crc="410690402" ref="phone>products:index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>products:phone>contact-us:phone>about:index:products:contact-us:about"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>products:phone>contact-us:phone>about:index:contact-us:about"/>
     <file name="form-u7979.php" crc="4257858576" ref="phone>contact-us"/>
     <file name="jquery.museresponsive.js" crc="52098982" ref="index"/>
   </folder>
@@ -47,23 +46,23 @@
     <file name="ccn1.png" crc="4161584636" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="phone>index:index:products"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
     <file name="cct2.png" crc="4116086299" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bio.png" crc="3907400966" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="phone>index:index:products"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
     <file name="u5944-4.png" crc="4102733101" ref="phone>index"/>
-    <file name="untitled-6.png" crc="223235052" seo="true" ref="phone>index:phone>products:phone>contact-us:phone>about:index">
+    <file name="untitled-6.png" crc="4170049227" seo="true" ref="phone>index:phone>products:phone>contact-us:phone>about:index">
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="contact-us" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
-    <file name="visualeditor_-_icon_-_menusvg-u6064-3-fr.png" crc="87117005" ref="phone>index:phone>products:phone>contact-us:phone>about"/>
-    <file name="multiplication-symbol-icon-0910125830-u6064-3-a-fr.png" crc="3793888727" ref="phone>index:phone>products:phone>contact-us:phone>about"/>
+    <file name="visualeditor_-_icon_-_menusvg-u6064-3-fr.png" crc="87117005" ref="phone>index:phone>contact-us"/>
+    <file name="multiplication-symbol-icon-0910125830-u6064-3-a-fr.png" crc="3793888727" ref="phone>index:phone>contact-us"/>
     <file name="currency-counter6.png" crc="3806351425" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
     </file>
@@ -73,19 +72,19 @@
     <file name="bm3.jpg" crc="4068258452" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cctv-1.jpg" crc="3771389932" seo="true" ref="phone>index:phone>products:index">
+    <file name="cctv-1.jpg" crc="3771389932" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
     <file name="u7530-4.png" crc="4026870484" ref="phone>index"/>
     <file name="u6781-4.png" crc="3993999835" ref="phone>products"/>
-    <file name="0d59181d-e29c-423d-b455-88a523dce8a8.jpg" crc="4242127559" seo="true" ref="phone>products">
+    <file name="0d59181d-e29c-423d-b455-88a523dce8a8.jpg" crc="482979480" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
     <file name="currency-counter7.png" crc="375053287" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
-    <file name="19c0be5d-8d6f-4469-865f-b59d6301705d.jpg" crc="3853795498" seo="true" ref="phone>products">
+    <file name="19c0be5d-8d6f-4469-865f-b59d6301705d.jpg" crc="416073313" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
     <file name="bundle-note-counting-machine2.png" crc="457559904" seo="true" ref="phone>products">
@@ -94,20 +93,17 @@
     <file name="currency-counter8.png" crc="348966555" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
-    <file name="dd6e2bee-c227-458c-be19-f83a7f4efb1c.jpg" crc="3860707563" seo="true" ref="phone>products">
+    <file name="dd6e2bee-c227-458c-be19-f83a7f4efb1c.jpg" crc="350515982" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
-    <file name="e0cc6da6-a97a-4e6a-86d1-7c453d1d64dc.jpg" crc="295166441" seo="true" ref="phone>products">
+    <file name="e0cc6da6-a97a-4e6a-86d1-7c453d1d64dc.jpg" crc="145272784" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
     <file name="u6760-4.png" crc="3859536071" ref="phone>products"/>
-    <file name="surveillance-camera-vector-shape3.jpg" crc="12911770" seo="true" ref="phone>products">
+    <file name="surveillance-camera-vector-shape3.jpg" crc="273212655" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
     <file name="images.jpg" crc="4125319580" seo="true" ref="phone>products">
-      <caption webpage="products" alt=""/>
-    </file>
-    <file name="twilightprobulletcams.jpg" crc="455594237" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
     <file name="u7534-4.png" crc="4102733101" ref="phone>contact-us"/>
@@ -117,7 +113,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="at2.png" crc="3829951496" seo="true" ref="index:products">
+    <file name="at2.png" crc="3829951496" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -148,34 +144,19 @@
     <file name="bm392x68.jpg" crc="3991470411" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="span4.jpg" crc="4201867931" seo="true" ref="products">
-      <caption webpage="products" alt=""/>
-      <caption webpage="products" alt=""/>
-    </file>
-    <file name="banner4.jpg" crc="3832672467" seo="true" ref="products">
+    <file name="visualeditor_-_icon_-_menusvg-u6519-3-fr.png" crc="3798367665" ref="phone>products"/>
+    <file name="multiplication-symbol-icon-0910125830-u6519-3-a-fr.png" crc="150491539" ref="phone>products"/>
+    <file name="cctv-1358x275.jpg" crc="3795812113" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
-    <file name="1.jpg" crc="4060427395" seo="true" ref="products">
+    <file name="twilightprobulletcams276x259.jpg" crc="139723278" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
-    <file name="span1.jpg" crc="4051105662" seo="true" ref="products">
-      <caption webpage="products" alt=""/>
-      <caption webpage="products" alt=""/>
-    </file>
-    <file name="span3.jpg" crc="3903291493" seo="true" ref="products">
-      <caption webpage="products" alt=""/>
-      <caption webpage="products" alt=""/>
-    </file>
-    <file name="span5.jpg" crc="148656293" seo="true" ref="products">
-      <caption webpage="products" alt=""/>
-      <caption webpage="products" alt=""/>
-    </file>
-    <file name="span2.jpg" crc="381212029" seo="true" ref="products">
-      <caption webpage="products" alt=""/>
-    </file>
+    <file name="visualeditor_-_icon_-_menusvg-u7698-3-fr.png" crc="87117005" ref="phone>about"/>
+    <file name="multiplication-symbol-icon-0910125830-u7698-3-a-fr.png" crc="3793888727" ref="phone>about"/>
   </folder>
   <file name="index.html" crc="4049491607" seo="true" mt="1510497953241" redirect="true"/>
-  <file name="products.html" crc="263526977" seo="true" mt="1510486197692" redirect="true"/>
+  <file name="products.html" crc="3775388236" seo="true" mt="1510499262405" redirect="false"/>
   <file name="contact-us.html" crc="47181136" seo="true" mt="1510486197771" redirect="false"/>
   <file name="about.html" crc="393790207" seo="true" mt="1510486197849" redirect="false"/>
 </manifest>
