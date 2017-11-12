@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="valtaselectronic.com" resolutions="1x" timestamp="1510498677559">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="valtaselectronic.com" resolutions="1x" timestamp="1510498915629">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4111908485" ref="phone>index"/>
+      <file name="index.css" crc="371542197" ref="phone>index"/>
       <file name="about.css" crc="106110084" ref="phone>about"/>
       <file name="nomq_about.css" crc="3824530138" ref="phone>about"/>
       <file name="products.css" crc="39353617" ref="phone>products"/>
       <file name="contact-us.css" crc="4077230702" ref="phone>contact-us"/>
     </folder>
-    <file name="index.html" crc="4068494932" seo="true" mt="1510495707317" redirect="true"/>
+    <file name="index.html" crc="4097454045" seo="true" mt="1510498887470" redirect="true"/>
     <file name="products.html" crc="4243301479" seo="true" mt="1510498089347" redirect="true"/>
     <file name="contact-us.html" crc="87522290" seo="true" mt="1510497706686" redirect="true"/>
     <file name="about.html" crc="3795037627" seo="true" mt="1510497312894" redirect="true"/>
@@ -38,7 +38,7 @@
     <file name="form_throttle.php" crc="313199896" ref="phone>index"/>
     <file name="form_process.php" crc="3855659497" ref="phone>index"/>
     <file name="form-u7368.php" crc="447265559" ref="phone>index"/>
-    <file name="jquery.scrolleffects.js" crc="410690402" ref="phone>index:phone>products:index"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="phone>products:index"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>products:phone>contact-us:phone>about:index:products:contact-us:about"/>
     <file name="form-u7979.php" crc="4257858576" ref="phone>contact-us"/>
     <file name="jquery.museresponsive.js" crc="52098982" ref="index"/>
@@ -58,35 +58,22 @@
     <file name="u5944-4.png" crc="4102733101" ref="phone>index"/>
     <file name="untitled-6.png" crc="223235052" seo="true" ref="phone>index:phone>products:phone>contact-us:phone>about:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="contact-us" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
-    <file name="visualeditor_-_icon_-_menusvg-u6064-3-fr.png" crc="3798367665" ref="phone>index:phone>products:phone>contact-us:phone>about"/>
-    <file name="multiplication-symbol-icon-0910125830-u6064-3-a-fr.png" crc="150491539" ref="phone>index:phone>products:phone>contact-us:phone>about"/>
+    <file name="visualeditor_-_icon_-_menusvg-u6064-3-fr.png" crc="87117005" ref="phone>index:phone>products:phone>contact-us:phone>about"/>
+    <file name="multiplication-symbol-icon-0910125830-u6064-3-a-fr.png" crc="3793888727" ref="phone>index:phone>products:phone>contact-us:phone>about"/>
     <file name="currency-counter6.png" crc="3806351425" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="71d4gjcdfsl_sl1500_.png" crc="4172918485" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="bm3.jpg" crc="4068258452" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="cctv-1.jpg" crc="3771389932" seo="true" ref="phone>index:phone>products:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
