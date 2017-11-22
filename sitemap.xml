@@ -1,64 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/index.html</loc>
+    <loc>http://valtaselectronic.com/index.html</loc>
     <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://valtaselectroncs.github.io/valtaselectronics.github.io/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://valtaselectronic.com/phone/index.html"/>
     <image:image>
-      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/untitled-6.png</image:loc>
+      <image:loc>http://valtaselectronic.com/images/untitled-6.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/currency-counter6.png</image:loc>
+      <image:loc>http://valtaselectronic.com/images/currency-counter6.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/71d4gjcdfsl_sl1500_.png</image:loc>
+      <image:loc>http://valtaselectronic.com/images/ccm.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/cctv-1.png</image:loc>
+      <image:loc>http://valtaselectronic.com/images/at2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/ccm.png</image:loc>
+      <image:loc>http://valtaselectronic.com/images/bm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/at2.png</image:loc>
+      <image:loc>http://valtaselectronic.com/images/cctv.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/bm.jpg</image:loc>
+      <image:loc>http://valtaselectronic.com/images/71d4gjcdfsl_sl1500_110x110.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/cctv.png</image:loc>
+      <image:loc>http://valtaselectronic.com/images/bm3103x77.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/bm3103x77.jpg</image:loc>
+      <image:loc>http://valtaselectronic.com/images/bm397x72.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/bm397x72.jpg</image:loc>
+      <image:loc>http://valtaselectronic.com/images/71d4gjcdfsl_sl1500_104x104.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/images/bm392x68.jpg</image:loc>
+      <image:loc>http://valtaselectronic.com/images/bm392x68.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/71d4gjcdfsl_sl1500_98x99.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/71d4gjcdfsl_sl1500_33x33.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/bm331x23.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/products.html</loc>
+    <loc>http://valtaselectronic.com/products.html</loc>
     <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://valtaselectroncs.github.io/valtaselectronics.github.io/phone/products.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://valtaselectronic.com/phone/products.html"/>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/at2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/span4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/banner4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/span1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/span3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/span5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/span2.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/contact-us.html</loc>
+    <loc>http://valtaselectronic.com/contact-us.html</loc>
     <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://valtaselectroncs.github.io/valtaselectronics.github.io/phone/contact-us.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://valtaselectronic.com/phone/contact-us.html"/>
   </url>
   <url>
-    <loc>https://valtaselectroncs.github.io/valtaselectronics.github.io/about.html</loc>
+    <loc>http://valtaselectronic.com/about.html</loc>
     <lastmod>2017-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://valtaselectroncs.github.io/valtaselectronics.github.io/phone/about.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://valtaselectronic.com/phone/about.html"/>
   </url>
 </urlset>
