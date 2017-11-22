@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="valtaselectronic.com" resolutions="1x" timestamp="1511378979613">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="valtaselectronic.com" resolutions="1x" timestamp="1511379845222">
   <folder name="css">
     <file name="site_global.css" crc="3833540717"/>
     <file name="contact-us.css" crc="4193191577" ref="contact-us"/>
@@ -24,7 +24,7 @@
     <file name="form_throttle.php" crc="313199896" ref="phone>index"/>
     <file name="form_process.php" crc="3855659497" ref="phone>index"/>
     <file name="form-u7368.php" crc="447265559" ref="phone>index"/>
-    <file name="jquery.scrolleffects.js" crc="410690402" ref="phone>products:index"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="phone>products:index:phone>index"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>products:phone>contact-us:phone>about:index:products:contact-us:about"/>
     <file name="jquery.museresponsive.js" crc="52098982" ref="index"/>
     <file name="require.js" crc="85721165" ref="phone>index:phone>products:phone>contact-us:phone>about:index:products:contact-us:about"/>
@@ -43,9 +43,7 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
     <file name="u5944-4.png" crc="4102733101" ref="phone>index"/>
-    <file name="untitled-6.png" crc="3798920797" seo="true" ref="phone>index:phone>products:phone>contact-us:phone>about:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="untitled-6.png" crc="223235052" seo="true" ref="phone>index:phone>products:phone>contact-us:phone>about:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
@@ -54,14 +52,8 @@
     </file>
     <file name="currency-counter6.png" crc="3806351425" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="71d4gjcdfsl_sl1500_.png" crc="4172918485" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u7530-4.png" crc="4026870484" ref="phone>index"/>
@@ -132,15 +124,12 @@
     <file name="bm392x68.jpg" crc="3991470411" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="visualeditor_-_icon_-_menusvg-u6064-3-fr.png" crc="87117005" ref="phone>index:phone>about"/>
-    <file name="multiplication-symbol-icon-0910125830-u6064-3-a-fr.png" crc="3793888727" ref="phone>index:phone>about"/>
+    <file name="visualeditor_-_icon_-_menusvg-u6064-3-fr.png" crc="87117005" ref="phone>about"/>
+    <file name="multiplication-symbol-icon-0910125830-u6064-3-a-fr.png" crc="3793888727" ref="phone>about"/>
     <file name="bm3.jpg" crc="4068258452" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="cctv-1.png" crc="4255773787" seo="true" ref="phone>index:phone>products:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
@@ -149,17 +138,19 @@
     <file name="twilightprobulletcams.png" crc="3970374670" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
+    <file name="visualeditor_-_icon_-_menusvg-u8457-3-fr.png" crc="219397401" ref="phone>index"/>
+    <file name="multiplication-symbol-icon-0910125830-u8457-3-a-fr.png" crc="3904718972" ref="phone>index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="products.css" crc="317702731" ref="phone>products"/>
       <file name="about.css" crc="482651437" ref="phone>about"/>
       <file name="nomq_about.css" crc="3824530138" ref="phone>about"/>
-      <file name="index.css" crc="4061692017" ref="phone>index"/>
+      <file name="index.css" crc="35184600" ref="phone>index"/>
       <file name="contact-us.css" crc="13908090" ref="phone>contact-us"/>
     </folder>
-    <file name="index.html" crc="3933046347" seo="true" mt="1510499589766" redirect="true"/>
-    <file name="products.html" crc="190586276" seo="true" mt="1510499404724" redirect="true"/>
+    <file name="index.html" crc="457469655" seo="true" mt="1511379797265" redirect="true"/>
+    <file name="products.html" crc="323772735" seo="true" mt="1511379654684" redirect="true"/>
     <file name="contact-us.html" crc="3810290854" seo="true" mt="1510499396507" redirect="true"/>
     <file name="about.html" crc="86405761" seo="true" mt="1510499389118" redirect="true"/>
   </folder>
