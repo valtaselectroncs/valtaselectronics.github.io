@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="valtaselectronic.com" resolutions="1x" timestamp="1512063665714">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="valtaselectronic.com" resolutions="1x" timestamp="1512064153825">
   <folder name="css">
     <file name="site_global.css" crc="480281256"/>
     <file name="contact-us.css" crc="4193191577" ref="contact-us"/>
@@ -40,9 +40,6 @@
     <file name="untitled-6.png" crc="223235052" seo="true" ref="phone>index:phone>products:phone>contact-us:phone>about:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="contact-us" alt=""/>
       <caption webpage="products" alt=""/>
@@ -52,14 +49,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="71d4gjcdfsl_sl1500_.png" crc="4053025259" seo="true" ref="phone>index:index">
+    <file name="71d4gjcdfsl_sl1500_.png" crc="4053025259" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="currency-counter7.png" crc="375053287" seo="true" ref="phone>products">
-      <caption webpage="products" alt=""/>
     </file>
     <file name="currency-counter8.png" crc="348966555" ref="phone>products">
       <caption webpage="products" alt=""/>
@@ -112,8 +103,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="products" alt=""/>
     </file>
-    <file name="visualeditor_-_icon_-_menusvg-u6519-3-fr.png" crc="3798367665" ref="phone>products:phone>contact-us:phone>about"/>
-    <file name="multiplication-symbol-icon-0910125830-u6519-3-a-fr.png" crc="150491539" ref="phone>products:phone>contact-us:phone>about"/>
+    <file name="visualeditor_-_icon_-_menusvg-u6519-3-fr.png" crc="3798367665" ref="phone>products:phone>about"/>
+    <file name="multiplication-symbol-icon-0910125830-u6519-3-a-fr.png" crc="150491539" ref="phone>products:phone>about"/>
     <file name="twilightprobulletcams.png" crc="3970374670" seo="true" ref="phone>products">
       <caption webpage="products" alt=""/>
     </file>
@@ -135,18 +126,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="visualeditor_-_icon_-_menusvg-u7569-3-fr.png" crc="3798367665" ref="phone>contact-us"/>
+    <file name="multiplication-symbol-icon-0910125830-u7569-3-a-fr.png" crc="150491539" ref="phone>contact-us"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="products.css" crc="3833114896" ref="phone>products"/>
+      <file name="products.css" crc="254731473" ref="phone>products"/>
       <file name="about.css" crc="225211569" ref="phone>about"/>
       <file name="nomq_about.css" crc="3824530138" ref="phone>about"/>
-      <file name="index.css" crc="123419075" ref="phone>index"/>
-      <file name="contact-us.css" crc="4287090628" ref="phone>contact-us"/>
+      <file name="index.css" crc="114866290" ref="phone>index"/>
+      <file name="contact-us.css" crc="433739786" ref="phone>contact-us"/>
     </folder>
-    <file name="index.html" crc="455705891" seo="true" mt="1512063659963" redirect="true"/>
-    <file name="products.html" crc="3845101199" seo="true" mt="1512063079721" redirect="true"/>
-    <file name="contact-us.html" crc="3850598274" seo="true" mt="1512063134481" redirect="true"/>
+    <file name="index.html" crc="3774545223" seo="true" mt="1512064133874" redirect="true"/>
+    <file name="products.html" crc="434776965" seo="true" mt="1512064070798" redirect="true"/>
+    <file name="contact-us.html" crc="4240146637" seo="true" mt="1512063880565" redirect="true"/>
     <file name="about.html" crc="473909682" seo="true" mt="1512063148463" redirect="true"/>
   </folder>
   <file name="index.html" crc="178722542" seo="true" mt="1512048059931" redirect="true"/>
