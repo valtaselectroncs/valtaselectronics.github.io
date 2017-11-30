@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://valtaselectronic.com/index.html</loc>
-    <lastmod>2017-11-12</lastmod>
+    <lastmod>2017-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://valtaselectronic.com/phone/index.html"/>
@@ -28,16 +28,10 @@
       <image:loc>http://valtaselectronic.com/images/cctv.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://valtaselectronic.com/images/bm3103x77.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/bm397x72.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://valtaselectronic.com/images/bm392x68.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://valtaselectronic.com/images/cctv-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://valtaselectronic.com/images/bm3.png</image:loc>
     </image:image>
   </url>
   <url>
