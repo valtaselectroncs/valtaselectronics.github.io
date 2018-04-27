@@ -1,0 +1,126 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="valtaselectronics.com" resolutions="1x" timestamp="1524809710259">
+  <folder name="css">
+    <file name="site_global.css" crc="285782232"/>
+    <file name="index.css" crc="446615229" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="untitled-6-u168.png" crc="3942164813" ref="index"/>
+    <file name="ccm.png" crc="4180082413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="at2.png" crc="3829951496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bm.jpg" crc="293511870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cctv.png" crc="4221956119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="currency-counter6.png" crc="3995482116" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="71d4gjcdfsl_sl1500_.png" crc="327496083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bm3.png" crc="4037958825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="index1-u3201-fr.png" crc="3965917816" ref="index"/>
+    <file name="index.png" crc="389362788" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="index4.png" crc="4070757970" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="led.png" crc="4277543747" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bill.png" crc="4179631027" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitmap in untitled-1.png" crc="69173958" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="812muj6vzel_sx522_.png" crc="4022334428" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indaex.png" crc="3792951848" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hi-focus-dvr-4-channel-home-security-camera-500x500.png" crc="245864213" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot-smartofficesuitein-2018-03-26-22-24-52.png" crc="6142276" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot-wwwesslsecuritycom-2018-03-26-22-14-43.png" crc="4211162119" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="312f5u-ngal.png" crc="463942155" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot-wwwesslsecuritycom-2018-03-26-22-51-30-u4190-fr.png" crc="4081164303" ref="index"/>
+    <file name="screenshot-wwwesslsecuritycom-2018-03-26-22-51-a30-u4196-fr.png" crc="3972394981" ref="index"/>
+    <file name="61ob08ca2al_sx355_.png" crc="3802296065" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bitmap in untitled-1cdr.png" crc="392121159" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pvc-doors-u5485-fr.png" crc="3973133530" ref="index"/>
+    <file name="index1.png" crc="3933613242" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot-wwwesslsecuritycom-2018-03-26-22-51-30.png" crc="3791338391" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot-wwwesslsecuritycom-2018-03-26-22-51-a30.png" crc="4200149086" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pvc-door-500x500.png" crc="486753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twilightprobulletcams.png" crc="202278896" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-watt-led-bulb-500x500.png" crc="477449253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bm2.png" crc="4180870196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pvc-door-500x5002.png" crc="509269976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6508-6.png" crc="4027861455" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4167455292" seo="true" mt="1524809252006" redirect="true"/>
+</manifest>
